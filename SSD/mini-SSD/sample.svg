@@ -1,6 +1,8 @@
 
 <svg fill="none" viewBox="0 0 640 480" width="640" height="480" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-      <script src="https://embed.github.com/view/3d/benjym/open-hardware/blob/main/SSD/mini-SSD/3d-models/v3/binder_sprocket_rotor_v4.stl"></script>
+      <div xmlns="http://www.w3.org/1999/xhtml">
+          <script src="https://embed.github.com/view/3d/benjym/open-hardware/blob/main/SSD/mini-SSD/3d-models/v3/binder_sprocket_rotor_v4.stl"></script>
+      </div>
   </foreignObject>
 </svg>
