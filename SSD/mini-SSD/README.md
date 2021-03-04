@@ -6,3 +6,6 @@ Coming soon
 
 # Assembly instructions
 Coming soon
+
+# Designed by
+  - [Benjy Marks](mailto:benjy.marks@sydney.edu.au)
