@@ -1,8 +1,10 @@
 <svg fill="none" viewBox="0 0 640 480" width="640" height="480" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-          <script href="https://embed.github.com/view/3d/benjym/open-hardware/blob/main/SSD/mini-SSD/3d-models/v3/binder_sprocket_rotor_v4.stl"></script>
-          <!-- <iframe height='420' width='620' frameborder='0' src='https://render.githubusercontent.com/view/3d?url=https://raw.githubusercontent.com/benjym/open-hardware/blob/main/SSD/mini-SSD/3d-models/v3/binder_sprocket_rotor_v4.stl' title='binder_sprocket_rotor_v4.stl'> </iframe> -->
-      </div>
+      <body xmlns="http://www.w3.org/1999/xhtml">
+      <!-- <div xmlns="http://www.w3.org/2000/xhtml"> -->
+          <!-- <script href="https://embed.github.com/view/3d/benjym/open-hardware/blob/main/SSD/mini-SSD/3d-models/v3/binder_sprocket_rotor_v4.stl"></script> -->
+          <iframe height='100%' width='100%' frameborder='0' src='https://render.githubusercontent.com/view/3d?url=https://raw.githubusercontent.com/benjym/open-hardware/blob/main/SSD/mini-SSD/3d-models/v3/binder_sprocket_rotor_v4.stl' title='binder_sprocket_rotor_v4.stl'> </iframe>
+      <!-- </div> -->
+      </body>
   </foreignObject>
 </svg>
