@@ -1,0 +1,10 @@
+<svg width="960" height="850">
+  <g transform="translate(300, 0) rotate(20)">
+    <foreignObject x="10" y="10" width="800" height="800">
+      <body xmlns="http://www.w3.org/1999/xhtml">
+        <!-- <iframe src="https://render.githubusercontent.com/view/3d?url=https://raw.githubusercontent.com/benjym/open-hardware/main/SSD/mini-SSD/3d-models/v3/binder_sprocket_rotor_v4.stl" style="width:700px;height:700px"></iframe> -->
+        <script src="https://embed.githubusercontent.com/view/solid/benjym/open-hardware/blob/main/SSD/mini-SSD/3d-models/v3/binder_sprocket_rotor_v4.stl?"></script>
+      </body>
+    </foreignObject>
+  </g>
+</svg>
