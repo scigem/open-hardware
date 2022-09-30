@@ -2,7 +2,7 @@
 
 ## Lower shear box
 ```stl
-solid Visualization Toolkit generated SLA File
+solid Lower box
  facet normal -0.96245744459729599 -0.27143262025637749 -0
   outer loop
    vertex 11.507172584533691 20.361839294433594 0
@@ -18456,11 +18456,8 @@ solid Visualization Toolkit generated SLA File
   endloop
  endfacet
 endsolid
-```
 
-## Upper Shear Box
-```stl
-solid Visualization Toolkit generated SLA File
+solid Lower box
  facet normal 1 -0 0
   outer loop
    vertex 100 67.5 22
@@ -20926,11 +20923,8 @@ solid Visualization Toolkit generated SLA File
   endloop
  endfacet
 endsolid
-```
 
-## Loading plate
-```stl
-solid Visualization Toolkit generated SLA File
+solid Loading plate
  facet normal 1 0 -0
   outer loop
    vertex 79.5 5.5 20
