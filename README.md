@@ -20,4 +20,4 @@ Open source hardware for performing granular and geomechanics experiments
 
 - [You can see the mini SSD here](https://github.com/scigem/open-hardware/raw/main/shear-box/videos/pink.mp4).
 - [Instructions for assembly are here](https://github.com/scigem/open-hardware/blob/main/shear-box/README.md).
-- Contact [Benjy](mailto:francois.guillard@sydney.edu.au) for more information
+- Contact [François](mailto:francois.guillard@sydney.edu.au) for more information
