@@ -18,6 +18,6 @@ Open source hardware for performing granular and geomechanics experiments
 
 ## Shear box
 
-- [You can see the mini SSD here](https://github.com/scigem/open-hardware/raw/main/shear-box/videos/pink.mp4).
-- [Instructions for assembly are here](https://github.com/scigem/open-hardware/blob/main/shear-box/README.md).
+- [You can find a CAD model of the shear box here](https://github.com/scigem/open-hardware/raw/main/shear-box/Model.scad).
+- [Instructions for use in a class are here](https://github.com/scigem/open-hardware/blob/main/shear-box/ShearBoxLab.pdf).
 - Contact [François](mailto:francois.guillard@sydney.edu.au) for more information
